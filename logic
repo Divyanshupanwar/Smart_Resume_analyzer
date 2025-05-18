@@ -1,0 +1,4 @@
+mkdir logic                # create logic folder (if not created yet)
+mv scoring.py logic/       # move scoring.py into logic
+mv sorting.py logic/       # move sorting.py into logic
+mv __init__.py logic/      # move __init__.py into logic
